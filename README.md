@@ -1,6 +1,6 @@
-# 
+# CURRICULO
 # sobre o criador 
-meu nome é naomi eesse é um do codigos que eu fiz
+meu nome é naomi esse é um do codigos que eu fiz
 
 # onde eu fiz
 fiz no replit no index.html 
