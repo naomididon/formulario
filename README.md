@@ -6,7 +6,7 @@ meu nome é naomi esse é um do codigos que eu fiz
 fiz no replit no index.html 
 
 # Como eu fiz
-nesse meu codigo, fiz sobre meu curriculo, nele possui informaçoes com meus dados, como o objetivo, formação, experiencias profissionais, aperfeiçoamento e atividades complementares, idiomas e as referencias pessoais, dentro dessas informaçoes explico oque fiz dentro de cada uma delas
+nesse meu codigo, fiz sobre meu curriculo, nele possui informaçoes com meus dados, como o objetivo, formação, experiencias profissionais, aperfeiçoamento e atividades complementares, idiomas e as referencias pessoais, dentro dessas informaçoes explico oque fiz dentro de cada uma delas, nesse codigo nẫo usei cores, apenas informaçoes mesmos.
 
 # Codigos que eu usei
 * Body
